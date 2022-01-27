@@ -6,7 +6,7 @@ I graduated from **Hack Reactor's Software Engineering Immersive** in December o
 I'm currently serving as a Resident under the same program that trained me, so you'll see a lot of repositories that I've created to be workshops for my students to really hone their skills and ensure their fundamentals are solid.
 
 #### I'm currently working on...
-- TypeScript and Ruby on Rails! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself the ins and outs of both.
+- TypeScript! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself the ins and outs of both.
 - My own personal [website](https://github.com/kellytso04/dot-io) because I've always wanted one
 - Finding a full-time job as a software engineer! 
 
