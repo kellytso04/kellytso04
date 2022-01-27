@@ -8,7 +8,7 @@ I'm currently serving as a Resident under the same program that trained me, so y
 #### I'm currently working on...
 - TypeScript and Ruby on Rails! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself the ins and outs of both.
 - My own personal [website](https://github.com/kellytso04/dot-io) because I've always wanted one
-- Finding my first ✨ full-time job ✨ as a software engineer! 
+- Finding a full-time job as a software engineer! 
 
 #### Here are some of my favorite projects so far:
 [Marxet](https://github.com/kellytso04/marxet) is a project I'm very proud of. For this capstone, I took on the role of **UI Owner** and was responsible for designing the look, layout, and feel of our entire application. It gave me an opportunity to take on a leadership role and also flex my Excalidraw skills at the same time. Win-win.
