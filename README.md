@@ -1,14 +1,15 @@
 ### Hello there!
 
 #### My name is Kelly, and I'm a fullstack software engineer.
-I graduated from **Hack Reactor's Software Engineering Immersive** in December of 2021 and I've since fallen in love with the craft.
+I graduated from **Hack Reactor's Software Engineering Immersive** in December of 2021 and I've since fallen in love with the craft. 
 
-I'm currently serving as a Resident under the same program that trained me, so you'll see a lot of repositories that I've created to be workshops for my students to really hone their skills and ensure their fundamentals are solid.
+I'm currently serving as a Resident for the same program that trained me, so you'll see a lot of repositories that I've created to be workshops for my students to really hone their skills and ensure their fundamentals are solid.
 
 #### I'm currently working on...
 - TypeScript! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself the ins and outs of both.
 - My own personal [website](https://github.com/kellytso04/dot-io) because I've always wanted one
-- Finding a full-time job as a software engineer! 
+- Climbing the LeetCode ladder
+- Finding a full-time job as a software engineer! (No one asked, but here's my [resume](https://www.dropbox.com/s/2jgrod5q4eo7wyc/Kelly%20Tso%20-%20Resume.pdf?dl=0))
 
 #### Here are some of my favorite projects so far:
 [Marxet](https://github.com/kellytso04/marxet) is a project I'm very proud of. For this capstone, I took on the role of **UI Owner** and was responsible for designing the look, layout, and feel of our entire application. It gave me an opportunity to take on a leadership role and also flex my Excalidraw skills at the same time. Win-win.
