@@ -6,8 +6,7 @@ I graduated from **Hack Reactor's Software Engineering Immersive** in December o
 I'm currently serving as a Resident for the same program that trained me, so you'll see a lot of repositories that I've created to be workshops for my students to really hone their skills and ensure their fundamentals are solid.
 
 #### I'm currently working on...
-- TypeScript! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself the ins and outs of both.
-- My own personal [website](https://github.com/kellytso04/dot-io) because I've always wanted one
+- TypeScript! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself TypeScript in the context of React.
 - Climbing the LeetCode ladder
 - Finding a full-time job as a software engineer! (No one asked, but here's my [resume](https://www.dropbox.com/s/2jgrod5q4eo7wyc/Kelly%20Tso%20-%20Resume.pdf?dl=0))
 
