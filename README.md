@@ -2,15 +2,11 @@
 
 #### My name is Kelly, and I'm a fullstack software engineer.
 I graduated from **Hack Reactor's Software Engineering Immersive** in December of 2021 and I've since fallen in love with the craft. 
+I currently specialize in TypeScript and React, though I've recently picked up a few tricks with Ruby on Rails and Apollo/GraphQL.
 
-I'm currently serving as a Resident for the same program that trained me, so you'll see a lot of repositories that I've created to be workshops for my students to really hone their skills and ensure their fundamentals are solid.
+When I'm not coding, I'm most likely out for dinner at the newest restaurant on the block or trying to lure a stray cat inside my house (forever).
 
-#### I'm currently working on...
-- TypeScript! I'm employing everything I learned about autonomy on Hack Reactor and teaching myself TypeScript in the context of React.
-- Climbing the LeetCode ladder
-- Finding a full-time job as a software engineer! (No one asked, but here's my [resume](https://www.dropbox.com/s/2jgrod5q4eo7wyc/Kelly%20Tso%20-%20Resume.pdf?dl=0))
-
-#### Here are some of my favorite projects so far:
+#### Here are some of the projects I created as a student:
 [Marxet](https://github.com/kellytso04/marxet) is a project I'm very proud of. For this capstone, I took on the role of **UI Owner** and was responsible for designing the look, layout, and feel of our entire application. It gave me an opportunity to take on a leadership role and also flex my Excalidraw skills at the same time. Win-win.
 
 [Doowell](https://github.com/kellytso04/doowell) was a difficult one. I was given less than 48 hours to dream up, design, and build a full-stack application. It really pushed my time-management and perseverance to the limit, and I'm still very proud of what I was able to produce in such a small timeframe.
