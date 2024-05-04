@@ -9,7 +9,7 @@ When I'm not coding, I'm most likely out for dinner at the newest restaurant on 
 #### Here are some of the projects I created as a student:
 [Marxet](https://github.com/kellytso04/marxet) is a project I'm very proud of. For this capstone, I took on the role of **UI Owner** and was responsible for designing the look, layout, and feel of our entire application. It gave me an opportunity to take on a leadership role and also flex my Excalidraw skills at the same time. Win-win.
 
-[Doowell](https://github.com/kellytso04/doowell) was a difficult one. I was given less than 48 hours to dream up, design, and build a full-stack application. It really pushed my time-management and perseverance to the limit, and I'm still very proud of what I was able to produce in such a small timeframe.
+[Doowell](https://github.com/kellytso04/doowell-v0) was a difficult one. I was given less than 48 hours to dream up, design, and build a full-stack application. It really pushed my time-management and perseverance to the limit, and I'm still very proud of what I was able to produce in such a small timeframe.
 
 [Catwalk](https://github.com/team-parakeet/catwalk) was my first experience working in a team as opposed to just a pair during my time in the immersive. Every day I walked in and did valorous battle with CSS (I won almost every time). It was a crash course in the nitty-gritty of Git workflow and best collaborative practices. 
 
